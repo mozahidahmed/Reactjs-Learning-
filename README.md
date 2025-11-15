@@ -1,14 +1,15 @@
 01- Installation in laptop 
 <ol>
- <li>node </li> 
-  <li>git </li> 
+ <li>Node </li> 
+  <li>Git </li> 
 </ol>
 <hr>
 
 02- Vs code Installation 
 <ol>
  <li>Auto rename  </li> 
- <li>path installation </li> 
- <li> Auto Import file </li> 
- <li> rsc rj code snippets </li> 
+ <li>Path installation </li> 
+ <li>Auto Import file </li> 
+ <li>Rsc reactjs code snippets </li> 
 </ol>
+<hr>
