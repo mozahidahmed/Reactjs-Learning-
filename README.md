@@ -1,12 +1,12 @@
 <hr>
-01- Installation in laptop 
+01- <b>Installation in laptop</b>
 <ol>
  <li>Node </li> 
   <li>Git </li> 
 </ol>
 <hr>
 
-02- Vs code Installation 
+02-<b> Vs code Installation </b>
 <ol>
  <li>Auto rename  </li> 
  <li>Path installation </li> 
